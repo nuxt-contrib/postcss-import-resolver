@@ -1,6 +1,6 @@
 {
   "name": "postcss-import-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customize postcss-import resolve with enhanced-resolve",
   "main": "index.js",
   "repository": "git+https://github.com/clarkdo/postcss-import-resolver.git",
