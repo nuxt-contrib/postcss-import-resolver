@@ -1,4 +1,4 @@
-declare module 'postcss-import-resolver' {
+declare namespace ImportResolver {
   interface AliasItem {
     alias: string;
     name: string;
@@ -33,6 +33,8 @@ declare module 'postcss-import-resolver' {
     unsafeCache?: boolean | Dictionary<any>;
     useSyncFileSystemCalls?: boolean;
   }
-
-  export default function resolver(config: ResolverOption): Function
 }
+
+declare function resolver(config: ImportResolver.ResolverOption): Function
+
+export = resolver
