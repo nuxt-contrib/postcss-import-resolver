@@ -7,6 +7,7 @@ const {
 module.exports = (config = {}) => {
   const defaultConfig = {
     extensions: ['.css'],
+    mainFields: ['style', 'main'],
     modules: ['node_modules'],
     fileSystem: config.fileSystem
       ? null
