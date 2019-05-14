@@ -5,7 +5,9 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="1.2.3"></a>
 ## [1.2.3](https://github.com/clarkdo/postcss-import-resolver/compare/v1.2.2...v1.2.3) (2019-05-14)
 
+### Refactor
 
+* Prefer "style" property when resolving ([a79dfa13](https://github.com/jsless/postcss-import-resolver/pull/2))
 
 <a name="1.2.2"></a>
 ## [1.2.2](https://github.com/clarkdo/postcss-import-resolver/compare/v1.2.1...v1.2.2) (2019-03-29)
