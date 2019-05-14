@@ -1,6 +1,6 @@
 {
   "name": "postcss-import-resolver",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Customize postcss-import resolve with enhanced-resolve",
   "main": "index.js",
   "types": "index.d.ts",
