@@ -11,10 +11,10 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "enhanced-resolve": "^4.1.1"
+    "enhanced-resolve": "^4.5.0"
   },
   "devDependencies": {
-    "eslint": "^7.17.0",
+    "eslint": "^7.32.0",
     "standard-version": "^9.1.0"
   }
 }
