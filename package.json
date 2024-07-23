@@ -11,7 +11,7 @@
     "release": "standard-version"
   },
   "dependencies": {
-    "enhanced-resolve": "^4.1.1"
+    "enhanced-resolve": "^5.17.1"
   },
   "devDependencies": {
     "eslint": "^7.17.0",
