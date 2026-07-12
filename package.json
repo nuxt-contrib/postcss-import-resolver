@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "eslint": "^7.17.0",
-    "standard-version": "^9.1.0"
+    "commit-and-tag-version": "^9.5.0"
   }
 }
